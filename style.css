@@ -1,0 +1,113 @@
+.button input[type=login]{
+    background-color: rgba(0, 0, 255, 0.792);
+    border-bottom: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    color: azure;
+    margin-left: 85%;
+    
+}
+.id3333 form input[type=text]{
+    grid-template-rows: repeat(3 1fr);
+    margin-left: 70%;
+    background-color: azure;
+    grid-template-rows: 1fr;
+    border-top: none;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    margin-top: -100px;
+}
+    
+.signupmenu{
+    margin-left:80px;
+ margin-top: -40px;
+}
+.forms input[type=name]{
+border-top: none;
+border-left: none;
+border-right: none;
+margin-left: 500px;
+background-color: azure
+}  
+.forms input[type=text]{
+
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin-left: 60px;
+
+    }
+.button2 [type=signup]{
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+    border-right: none;
+    width: 185px;
+    font-size: smaller;
+    margin-left: 50px;
+background-color: rgba(0, 0, 255, 0.817);
+    color: azure
+
+
+}
+.title2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 400px;
+    margin-top: 10px;
+    font-size: xx-large;
+    color: azure;
+}
+.title3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 450px;
+    margin-top: 0px;
+    font-size: small;
+    color: azure;
+}
+.navabar{
+    background-color: rgb(0, 64, 255);
+    border: solid blue;
+    height: 250px;
+    
+}
+.ff2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    color: azure;
+}
+.fff3{margin-top: 0%;
+    width: 100px;
+margin-left: 40%;
+    width: 350px;
+    background-color:azure
+    
+}
+.main{
+    margin-top: 7%;
+    border: solid black;
+    height: 370px;
+    width: 1000px;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: rgba(255, 228, 196, 0.445);
+}
+.form1{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 100px;
+    margin-left: 60%;
+    margin-top: -30px;
+    margin-left:none;
+    margin-right: none;
+}
+.form1 button[type=login]{
+    background-color:rgba(0, 0, 255, 0.482);
+    color:azure;
+    border-bottom: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    
+}
